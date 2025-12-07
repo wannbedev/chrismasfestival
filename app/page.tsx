@@ -7,6 +7,7 @@ export default function DefaultPage() {
         <Home />
         <SpeedInsights />
       </div>
-    </div>
-  );
+    </div>////
+  );////
 }
+///////
